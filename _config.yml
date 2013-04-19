@@ -1,1 +1,2 @@
-baseurl:/demo
+markdown: rdiscount
+pygments: true
